@@ -8,7 +8,7 @@ This application will take the width and length of a house and return the number
 
 ## How to use this Application
 
-~~To run a calculation, pass in two parameters:~~
+To run a calculation, pass in two parameters:
 
 * The width of one house (preceeded by the `-w` flag)
 * The length of one house (preceeded vt the `-l` flag)
