@@ -20,6 +20,34 @@ node dist/index.js -w 8 -l 8
 
 ---
 
+## Developing Instructions
+
+Download this from GitHub:
+
+```
+git clone git@github.com:bholbrook73/geralds-contracting.git
+```
+
+If already downloaded:
+
+```
+git pull origin master
+```
+
+To install the dependencies:
+
+```
+npm install
+```
+
+To build
+
+```
+tsc
+```
+
+---
+
 ## Scenario
 
 Gerald owns a construction company and builds single room homes. He can quickly create a rectangular house, usually within one day. He has found, however, that he spends a good amount of time calculating how much lumber he needs to buy for the walls. 
